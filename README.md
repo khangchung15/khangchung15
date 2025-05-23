@@ -16,11 +16,11 @@
 ## 🔨 Featured Projects
 
 ### [🎵 Discord Music Bot](https://github.com/khangchung15/discord-bot)  
-📌 **Description**: Discord bot that plays ad-free music in voice channels using YouTube links  
+Discord bot that plays ad-free music in voice channels using YouTube links  
 🛠 **Tech**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?logo=discord&logoColor=white)  
 
 ### [🐧 Arch Linux + Hyprland](https://github.com/khangchung15/dotfiles)  
-📌 **Description**: Sleek desktop environment with auto-tiling, transparent windows, and music controls  
+Sleek desktop environment with auto-tiling, transparent windows, and music controls  
 🛠 **Tech**: ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white) ![Hyprland](https://img.shields.io/badge/-Hyprland-4B8BBE) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)  
 
 
