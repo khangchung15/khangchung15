@@ -16,17 +16,9 @@
 <details open> 
   <summary><h2>🔨 Featured Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/khangchung15/discord-bot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=discord-bot&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Discord Music Bot"></a>
-    <a href="https://github.com/khangchung15/dotfiles"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=dotfiles&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Arch Linux Hyprland Rice"></a>
+    <a href="https://github.com/khangchung15/discord-bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=discord-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Discord Music Bot"></a>
+    <a href="https://github.com/khangchung15/dotfiles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=dotfiles&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Arch Linux Hyprland Rice"></a>
   </p>
-
-  ## Project Details
-  
-  ### [Discord Music Bot](https://github.com/khangchung15/discord-bot)
-  > Discord bot that can play ad-free music in voice channels using YouTube links or search queries. Built with Node.js and Discord.js.
-  
-  ### [Arch Linux + Hyprland Ricing](https://github.com/khangchung15/dotfiles)
-  > Steal my desktop's look, featuring auto window tiling with music control on top taskbar and a transparent Spotify & terminal window. Includes all config files for Hyprland, Waybar, and other components.
 
   <a href="https://github.com/khangchung15?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
