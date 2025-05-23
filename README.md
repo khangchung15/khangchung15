@@ -23,19 +23,33 @@
 <table>
   <tr>
     <td width="50%">
-      <div align="center">
-        <h3>Solar System</h3>
-        <p>Rotating planets and occasional comets</p>
-        <img src="https://img.shields.io/badge/-Unity-black?logo=unity" />
-        <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white"/>
-        </br>
-        <a href="[Solar System](https://airplanecompany.itch.io/solar-system)">
-          <img src="https://custom-icon-badges.demolab.com/badge/-PLAY%20ON%20ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
-        </a>
-      </div>
+      <a href="https://airplanecompany.itch.io/solar-system" style="text-decoration: none; color: inherit; display: block;">
+        <div align="center" style="
+          background: #1F222E;
+          border-radius: 6px;
+          padding: 16px;
+          border-left: 4px solid #FA5C5C;
+          height: 100%;
+        ">
+          <h3 style="margin-top: 0; color: #F85D7F;">Solar System</h3>
+          <p style="color: #a0a0a0;">Rotating planets and occasional comets</p>
+          <div>
+            <img src="https://img.shields.io/badge/-Unity-black?logo=unity" />
+            <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white"/>
+          </div>
+          <div style="margin-top: 12px;">
+            <span style="
+              background: #FA5C5C;
+              color: white;
+              padding: 6px 12px;
+              border-radius: 4px;
+              font-weight: bold;
+              display: inline-block;
+            ">PLAY ON ITCH.IO</span>
+          </div>
+        </div>
+      </a>
     </td>
-    
-    
   </tr>
 </table>
 
