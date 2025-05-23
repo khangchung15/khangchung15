@@ -24,13 +24,13 @@
   <tr>
     <td width="50%">
       <div align="center">
+        <h3>Solar System</h3>
+        <p>Rotating planets and occasional comets</p>
+        <img src="https://img.shields.io/badge/-Unity-black?logo=unity" />
+        <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" />
         <a href="[Solar System](https://airplanecompany.itch.io/solar-system)">
           <img src="https://custom-icon-badges.demolab.com/badge/-PLAY%20ON%20ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
         </a>
-        <h3>Solar System</h3>
-        <p>Short description of your game (2-3 sentences)</p>
-        <img src="https://img.shields.io/badge/-Unity-black?logo=unity" />
-        <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" />
       </div>
     </td>
     
