@@ -19,7 +19,7 @@
 > Discord bot that can play ad-free music in voice channels using YouTube links or search queries
 
 ### [Arch Linux + Hyprland Ricing](https://github.com/khangchung15/dotfiles)
-> Steal my Arch Linux desktop's look, featuring auto window tiling with music control on top taskbar and a transparent Spotify and terminal window
+> Steal my desktop's look, featuring auto window tiling with music control on top taskbar and a transparent Spotify & terminal window
 
 
 # 📊 GitHub Stats:
