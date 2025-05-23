@@ -13,7 +13,7 @@
 
 ## 🔨 Featured Projects
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=portfolio&theme=dark&show_description=true)](https://github.com/khangchung15/portfolio)
-[![Discord Bot](https://github-readme-stats-eight.vercel.app/api/pin/?username=khangchung15&repo=discord-bot&theme=dark&show_description=true)](https://github.com/khangchung15/discord-bot)
+[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=discord-bot&theme=dark&show_description=true)](https://github.com/khangchung15/discord-bot)
 [![Arch Linux Hyprland](https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=dotfiles&theme=dark)](https://github.com/khangchung15/dotfiles)
 [![Recaptcha Game](https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=recaptcha-game&theme=dark)](https://github.com/khangchung15/recaptcha-game)
 
