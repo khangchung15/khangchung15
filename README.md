@@ -40,5 +40,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khangchung15&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+---
+Profile pic: Kullervo Deluxe by Liger Inuzuka
 
