@@ -22,31 +22,33 @@
 <table>
   <tr>
     <td width="50%">
-      <div align="center" style="
-        background: #1F222E;
-        border-radius: 6px;
-        padding: 16px;
-        border-left: 4px solid #FA5C5C;
-        cursor: pointer;
-        height: 100%;
-        position: relative;
-      " onclick="window.open('https://airplanecompany.itch.io/solar-system', '_blank')">
-        <h3 style="margin-top: 0; color: #F85D7F;">Solar System</h3>
-        <p style="color: #a0a0a0;">Rotating planets and occasional comets</p>
-        <div>
-          <img src="https://img.shields.io/badge/-Unity-black?logo=unity" />
-          <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white"/>
+      <a href="https://airplanecompany.itch.io/solar-system" target="_blank" style="text-decoration: none; display: block;">
+        <div align="center" style="
+          background: #1F222E;
+          border-radius: 6px;
+          padding: 16px;
+          border-left: 4px solid #FA5C5C;
+          cursor: pointer;
+          height: 100%;
+          color: inherit;
+        ">
+          <h3 style="margin-top: 0; color: #F85D7F;">Solar System</h3>
+          <p style="color: #a0a0a0;">Rotating planets and occasional comets</p>
+          <div>
+            <img src="https://img.shields.io/badge/-Unity-black?logo=unity" />
+            <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white"/>
+          </div>
+          <div style="margin-top: 12px;">
+            <span style="
+              background: #FA5C5C;
+              color: white;
+              padding: 6px 12px;
+              border-radius: 4px;
+              font-weight: bold;
+            ">PLAY ON ITCH.IO</span>
+          </div>
         </div>
-        <div style="margin-top: 12px;">
-          <span style="
-            background: #FA5C5C;
-            color: white;
-            padding: 6px 12px;
-            border-radius: 4px;
-            font-weight: bold;
-          ">PLAY ON ITCH.IO</span>
-        </div>
-      </div>
+      </a>
     </td>
   </tr>
 </table>
