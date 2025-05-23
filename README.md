@@ -1,4 +1,5 @@
 # 💫 About Me:
+I'm a CS student at University of Houston
 I'm currently working on a 2D Shooter Game on Unity Engine
 
 
