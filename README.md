@@ -21,7 +21,10 @@ Discord bot that plays ad-free music in voice channels using YouTube links
 
 ### [🐧 Arch Linux + Hyprland](https://github.com/khangchung15/dotfiles)  
 Sleek desktop environment with auto-tiling, transparent windows, and music controls  
-🛠 **Tech**: ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white) ![Hyprland](https://img.shields.io/badge/-Hyprland-4B8BBE) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)  
+🛠 **Tech**: ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white) ![Hyprland](https://img.shields.io/badge/-Hyprland-4B8BBE) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) 
+
+
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=discord-bot)](https://github.com/khangchung15/discord-bot)
 
 
 # 📊 GitHub Stats:
