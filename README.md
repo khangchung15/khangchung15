@@ -19,21 +19,13 @@
 [![Minecraft Mod](https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=minecraftmod&theme=dark&show_description=true)](https://github.com/khangchung15/minecraftmod)
 
 ## 🎮 Game projects
-## 🎮 Game projects
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://airplanecompany.itch.io/solar-system">
-        <img src="https://img.shields.io/badge/Solar_System-Rotating_planets_and_occasional_comets-FF0B34?style=for-the-badge&logo=unity&logoColor=white" alt="Solar System"/>
-        <br/>
-        <img src="https://img.shields.io/badge/-Unity-black?logo=unity" alt="Unity"/>
-        <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
-        <br/>
-        <img src="https://img.shields.io/badge/PLAY_ON_ITCH.IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Play on itch.io"/>
-      </a>
-    </td>
-  </tr>
-</table>
+[![Solar System](https://img.shields.io/badge/Solar_System-Unity%20Game-FF0B34?style=for-the-badge&logo=unity&logoColor=white)](https://airplanecompany.itch.io/solar-system)
+A space-themed game featuring rotating planets and occasional comets.
+**Technologies used:**
+- ![Unity](https://img.shields.io/badge/-Unity-black?logo=unity)
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+
+[![Play on Itch.io](https://img.shields.io/badge/PLAY_ON_ITCH.IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://airplanecompany.itch.io/solar-system)
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=khangchung15&theme=dark&hide_border=false)</br>
