@@ -27,14 +27,12 @@
         <br/>
         <img src="https://img.shields.io/badge/-Unity-black?logo=unity" alt="Unity"/>
         <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
-        <br/>
+        <br/> </br>
         <img src="https://img.shields.io/badge/PLAY_ON_ITCH.IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Play on itch.io"/>
       </a>
     </td>
   </tr>
 </table>
-
-[![Play on Itch.io](https://img.shields.io/badge/PLAY_ON_ITCH.IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://airplanecompany.itch.io/solar-system)
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=khangchung15&theme=dark&hide_border=false)</br>
