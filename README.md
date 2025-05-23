@@ -22,16 +22,16 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://airplanecompany.itch.io/solar-system">
-        <img src="https://img.shields.io/badge/Solar_System-FF0B34?style=for-the-badge&logo=unity&logoColor=white" alt="Solar System"/>
-      </a>
-      <p>Rotating planets and occasional comets</p>
-      <a href="https://airplanecompany.itch.io/solar-system">
-        <img src="https://img.shields.io/badge/-Unity-black?logo=unity" alt="Unity"/>
-        <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
-        <br/> </br>
-        <img src="https://img.shields.io/badge/PLAY_ON_ITCH.IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Play on itch.io"/>
-      </a>
+      <h3 align="center"><b>Solar System</b></h3>
+      <p align="center" style="font-size: 14px;">Rotating planets and occasional comets</p>
+      <div align="center">
+        <a href="https://airplanecompany.itch.io/solar-system">
+          <img src="https://img.shields.io/badge/-Unity-black?logo=unity" alt="Unity"/>
+          <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
+          <br/> </br>
+          <img src="https://img.shields.io/badge/PLAY_ON_ITCH.IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Play on itch.io"/>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
