@@ -23,8 +23,10 @@
   <tr>
     <td width="50%">
       <a href="https://airplanecompany.itch.io/solar-system">
-        <img src="https://img.shields.io/badge/Solar_System-Rotating_planets_and_occasional_comets-FF0B34?style=for-the-badge&logo=unity&logoColor=white" alt="Solar System"/>
-        <br/>
+        <img src="https://img.shields.io/badge/Solar_System-FF0B34?style=for-the-badge&logo=unity&logoColor=white" alt="Solar System"/>
+      </a>
+      <p>Rotating planets and occasional comets</p>
+      <a href="https://airplanecompany.itch.io/solar-system">
         <img src="https://img.shields.io/badge/-Unity-black?logo=unity" alt="Unity"/>
         <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
         <br/> </br>
