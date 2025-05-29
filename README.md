@@ -27,6 +27,20 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><b>Space Defender</b></h3>
+      <p align="center" style="font-size: 14px;">2D Shooter Game</p>
+      <div align="center">
+        <a href="https://airplanecompany.itch.io/space-defender">
+          <img src="https://img.shields.io/badge/-Unity-black?logo=unity" alt="Unity"/>
+          <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
+          <br/> </br>
+          <img src="https://img.shields.io/badge/PLAY_ON_ITCH.IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Play on itch.io"/>
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 
