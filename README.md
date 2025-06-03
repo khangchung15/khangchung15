@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Khang!
 - 🎓 Computer Science student @ University of Houston
 - 🎮 Passionate about game development and full stack development
-- 🔭 Currently building: 2D Shooter Game in Unity
+- 🔭 Currently building: 2D Platformer
 - 🌱 Learning: Game scripting, AI, and multiplayer networking
 
 ## 🔨 Featured GitHub Projects
