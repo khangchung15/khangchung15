@@ -38,6 +38,8 @@
         </a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center"><b>Cape Escape</b></h3>
       <p align="center" style="font-size: 14px;">2D Platformer Game</p>
