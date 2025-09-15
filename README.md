@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Khang!
 - 🎓 Computer Science student @ University of Houston
-- 🎮 Passionate about game development and full stack development
-- 🔭 Currently building: 2D Platformer
-- 🌱 Learning: Game scripting, AI, and multiplayer networking
+- 🎮 Passionate about game dev, and learning cybersecurity
+- 🔭 Currently building: 3D FPS in Unity
+- 🌱 Learning: Rust, SSH, Web Security, Reverse Engineering
 
 ## 🔨 Featured GitHub Projects
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=portfolio&theme=dark&show_description=true)](https://github.com/khangchung15/portfolio)
@@ -31,6 +31,18 @@
       <p align="center" style="font-size: 14px;">2D Shooter Game</p>
       <div align="center">
         <a href="https://airplanecompany.itch.io/space-defender">
+          <img src="https://img.shields.io/badge/-Unity-black?logo=unity" alt="Unity"/>
+          <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
+          <br/> </br>
+          <img src="https://img.shields.io/badge/PLAY_ON_ITCH.IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Play on itch.io"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center"><b>Cape Escape</b></h3>
+      <p align="center" style="font-size: 14px;">2D Platformer Game</p>
+      <div align="center">
+        <a href="https://airplanecompany.itch.io/cape-escape">
           <img src="https://img.shields.io/badge/-Unity-black?logo=unity" alt="Unity"/>
           <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
           <br/> </br>
