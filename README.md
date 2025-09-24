@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khang!
 - Computer Science student @ University of Houston
-- Passionate about game dev, and learning cybersecurity
+- Passionate about game dev, and learning SSH, reverse engineering, & binary exploitation
 - Currently building: 3D FPS in Unity
 - Learning: Rust, SSH, Web Security, Reverse Engineering
 
