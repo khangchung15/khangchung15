@@ -9,6 +9,7 @@
 [![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=discord-bot&theme=dark&show_description=true)](https://github.com/khangchung15/discord-bot)
 [![Arch Linux Hyprland](https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=ArchHyprland-dotfile&theme=dark&show_description=true)](https://github.com/khangchung15/ArchHyprland-dotfile)
 [![Minecraft Mod](https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=minecraftmod&theme=dark&show_description=true)](https://github.com/khangchung15/minecraftmod)
+[![Unga Paradox](https://github-readme-stats.vercel.app/api/pin/?username=khangchung15&repo=Unga-Paradox&theme=dark&show_description=true)](https://github.com/khangchung15/Unga-Paradox)
 
 ## Game projects
 <table>
